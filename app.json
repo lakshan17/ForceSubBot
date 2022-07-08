@@ -9,7 +9,7 @@
         "JE Bots"
     ],
     "website": "https://infinityje.com",
-    "repository": "https://github.com/ImJanindu/ForceSubBot",
+    "repository": "https://github.com/lakshan17/ForceSubBot",
     "success_url": "https://t.me/Infinity_BOTs",
     "env": {
         "TG_BOT_TOKEN": {
